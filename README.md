@@ -1,5 +1,5 @@
 - 🔭 I’m currently working at [Clarify Health](https://github.com/clarifyhealth)
-- 🌱 I’m currently learning Python, Go, etc.
+- 🌱 I’m most recently have worked with Python and some TypeScript/Javascript
 - 💬 Ask me about [Apache Spark](https://spark.apache.org/)
 - 😄 Pronouns: he/him
 
